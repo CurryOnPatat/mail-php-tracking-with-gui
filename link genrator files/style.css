@@ -1,0 +1,62 @@
+body {
+    background-color: #4a9dfc;
+  }
+  
+  h1,h2 {
+    color: black;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  form {
+      text-align: center;
+  
+      
+  
+  }
+
+  * {
+
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    display: flex;
+    border-radius: 20px;
+    background-color: #FFF;
+    align-items: center;
+    align-content: center;
+    margin-top: 10px;
+}
+
+.column {
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    align-self: center;
+}
+
+  .button {
+    background-color: black;
+    border: 25%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+
+  .footer {
+    clear: both;
+    position: relative;
+    height: 100px;
+
+}
