@@ -8,8 +8,8 @@
         </style>
 <div class="container column">
 <h1> your link that you need to put in the email is: 
-<?php echo htmlspecialchars('<img src="https://yoururlgoeshere/footer.php?image=footer.gif&id="'.$_GET["email"].'">'); ?>
 </h1>
+<h2><?php echo htmlspecialchars('<img src="https://yoururlgoeshere/footer.php?image=footer.gif&id="'.$_GET["email"].'">'); ?></h2>
 </div>
 
 
