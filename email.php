@@ -1,6 +1,6 @@
     <html>
 <link rel="stylesheet" href="style.css">
-<title> email gen linkie </title>
+<title> Email link genrator </title>
 
 <body>
     <style>
