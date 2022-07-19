@@ -14,5 +14,4 @@ foreach ($data as $line_num=>$line)
     echo ' <b>'.$line_num.'</b>:'.$line.'<br/>';
 }
 ?> 
-
 </html>

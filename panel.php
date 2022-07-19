@@ -10,5 +10,4 @@ include 'link.php';
 
 include 'log.php';
 
-
 ?> </div>
