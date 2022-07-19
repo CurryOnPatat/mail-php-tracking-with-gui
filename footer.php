@@ -32,4 +32,11 @@ $telegramchatid=yourtelegramchatidhere;
 // verstuurd het bericht [english: sends the message to your telegram bot]
 telegram ("$txt");
 exit;
+
+
+
+
+
+
 ?>
+
