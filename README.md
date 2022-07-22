@@ -10,6 +10,7 @@ The gui also has a log book that shows you simple stats to show you which person
 
 
 # How to install 
+for a video go to: https://youtu.be/_CSRnZZh4Cw
 change the yoururlgoeshereto to your url in:
 
 email.php
